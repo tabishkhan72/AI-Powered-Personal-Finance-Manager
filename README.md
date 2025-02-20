@@ -1,4 +1,4 @@
-combines advanced technologies like the Django Rest Framework, Next.js, and OpenAI's GPT-3.5 to redefine how you manage your finances. With its seamless interface and AI-driven insights, this tool empowers users to track income, control expenses, and make smarter financial decisions.
+This project combines advanced technologies like the Django Rest Framework, Next.js, and OpenAI's GPT-3.5 to redefine how you manage your finances. With its seamless interface and AI-driven insights, this tool empowers users to track income, control expenses, and make smarter financial decisions.
 
 🌟 Features at a Glance
 📊 Track Your Finances
