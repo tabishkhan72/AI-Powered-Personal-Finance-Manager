@@ -14,20 +14,3 @@ Use an intelligent chat interface powered by OpenAI's GPT-3.5 to simplify comple
 Backend: Django Rest Framework
 Frontend: Next.js
 AI Integration: OpenAI's GPT-3.5
-🚀 Get Started
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/your-repo/ai-finance-pencil.git
-Install Dependencies:
-Follow the detailed instructions in the INSTALL.md file.
-Run the Servers:
-Start both backend and frontend servers for a fully functional application.
-🔮 Future Enhancements
-🎯 AI Upgrades
-Leverage GPT-4 to enhance budgeting predictions and automate financial categorization.
-🔒 User Accounts
-Introduce secure user authentication for personalized and private data management.
-📱 Mobile Optimization
-Improve the app's responsiveness for an enhanced experience on smartphones and tablets.
-🌍 Contribute to the Project
